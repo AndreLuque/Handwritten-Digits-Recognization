@@ -1,1 +1,8 @@
-To execute the code I recommend establishing a Virtual Envi
+ To execute the program efficiently, I recommend setting up a virtual enviroment previously (https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
+ The following are the different modules needed:
+ pip3 install ________
+ -numpy
+ -pandas
+ -tensorflow (must have python 64-bit)
+ -matplotlib
+ -opencv
