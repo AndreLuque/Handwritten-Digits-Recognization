@@ -5,4 +5,4 @@
  -pandas
  -tensorflow (must have python 64-bit)
  -matplotlib
- -opencv
+ -opencv-python
